@@ -1,11 +1,7 @@
-# Hi there! I'm Thiago Castro 👋
+# Welcome to my profile 👋
 
-### :bow: About me: 
-
-  - I'm 19 years old, from São Paulo.
-  - Student at FIAP, Alura.
-
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thiago+Castro;I'm+19+years+old;I+from+Brazil,+SP;I+study+ADS+at+FIAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  
 ### :computer: Technologies:
 
 These are some of the technologies and tools I use:
@@ -25,8 +21,9 @@ These are some of the technologies and tools I use:
 
 ### 📈 My Statistics
 
-![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=thicastroo&show_icons=true&hide_border=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thicastroo&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) 
+| My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=thicastroo&show_icons=true&hide_border=true&count_private=true&theme=onedark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thicastroo&langs_count=10&count_private=true&hide_border=true&theme=onedark&layout=compact) |
 
 
 ## Contact Me
