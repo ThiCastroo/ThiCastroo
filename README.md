@@ -1,25 +1,38 @@
-### Olá!! Eu sou o Thiago Castro 👋
+# Hi there! I'm Thiago Castro 👋
 
-<div align="center">
-  <a href="https://github.com/ThiCastroo">
-  <a href=""><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiCastroo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/></a>
-  <a href=""><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThiCastroo&theme=onedark&line_height=40&hide=css"/></a>
-</div>
+### :bow: About me: 
 
-<div style="display:inline_block"><br>
-  <img align="center" alt="Thi-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Thi-Html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Thi-Css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Thi-JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Thi-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Thi-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-</div>
-  
- ##
-  
+  - I'm 19 years old, from São Paulo.
+  - Student at FIAP, Alura.
+
+
+### :computer: Technologies:
+
+These are some of the technologies and tools I use:
+
+- Front-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,styledcomponents,bootstrap,react)](https://skillicons.dev)
+
+- Back-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,java,python)](https://skillicons.dev)
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+
+- Tools and Plataforms
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=postman,git,vite,figma,eclipse,idea)](https://skillicons.dev)
+
+### 📈 My Statistics
+
+![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=thicastroo&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thicastroo&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) 
+
+
+## Contact Me
 <div>
   <a href="https://www.linkedin.com/in/thiagogyorgy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/thi.kstro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiagogyorgy.castro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
+
