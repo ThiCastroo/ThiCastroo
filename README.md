@@ -1,10 +1,18 @@
-# Welcome to my profile 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thiago+Castro;I'm+19+years+old;I+from+Brazil,+SP;I+study+ADS+at+FIAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
-  
-### :computer: Technologies:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thiago+Castro;I'm+19+years+old;I+from+Brasil,+SP;I+study+ADS+at+FIAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-These are some of the technologies and tools I use:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thicastroo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Castro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thicastroo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thicastroo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+### Main skills and technologies:
 
 - Front-End
 
@@ -19,13 +27,6 @@ These are some of the technologies and tools I use:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=postman,git,figma,eclipse,idea)](https://skillicons.dev)
 
-### 📈 My Statistics
-
-| My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=thicastroo&show_icons=true&hide_border=true&count_private=true&theme=onedark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thicastroo&langs_count=10&count_private=true&hide_border=true&theme=onedark&layout=compact) |
-
-
 ## Contact Me
 <div>
   <a href="https://www.linkedin.com/in/thiagogyorgy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -33,3 +34,9 @@ These are some of the technologies and tools I use:
   <a href = "mailto:thiagogyorgy.castro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{thicastroo}/count.svg" /></p> 
+<br></div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
